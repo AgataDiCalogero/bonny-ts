@@ -1,0 +1,1 @@
+{"version":3,"file":"IStartup.d.ts","sourceRoot":"","sources":["../../src/interfaces/IStartup.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,cAAc,CAAC;AAE1C,MAAM,WAAW,QAAQ;IACrB,IAAI,EAAE,MAAM,CAAC;IACb,cAAc,EAAE,MAAM,CAAC;IACvB,WAAW,EAAE,MAAM,CAAC;IACpB,sBAAsB,EAAE,MAAM,EAAE,CAAC;IACjC,eAAe,CAAC,SAAS,EAAE,UAAU,GAAG,IAAI,CAAC;CAChD"}

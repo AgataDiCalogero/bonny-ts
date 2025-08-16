@@ -1,0 +1,1 @@
+{"version":3,"file":"IIncentivo.d.ts","sourceRoot":"","sources":["../../src/interfaces/IIncentivo.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,YAAY,CAAC;AAEtC,MAAM,WAAW,UAAU;IACvB,oBAAoB,EAAE,MAAM,CAAC;IAC7B,WAAW,EAAE,MAAM,CAAC;IACpB,eAAe,EAAE,MAAM,CAAC;IACxB,mBAAmB,EAAE,MAAM,EAAE,CAAC;IAC9B,eAAe,CAAC,OAAO,EAAE,QAAQ,GAAG,IAAI,CAAC;CAC5C"}
