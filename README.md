@@ -61,7 +61,7 @@ Il primo comando compila TypeScript in JavaScript, il secondo esegue il programm
 3. Copia il contenuto di `src/` nei rispettivi pannelli
 4. **Apri la Console** per vedere i log di esecuzione
 
-**Link demo**: [CodePen](https://codepen.io/username/pen/bonny-ts)
+**Link demo**: [CodePen](https://codepen.io/AgataDiCalogero/pen/wBKpbax)
 
 ---
 
@@ -134,5 +134,4 @@ bonny-ts/
 
 ## 🔗 Link
 
-- **Repository**: [GitHub](https://github.com/username/bonny-ts)
-- **Demo live**: [CodePen](https://codepen.io/username/pen/bonny-ts)
+- **Demo live**: [CodePen](https://codepen.io/AgataDiCalogero/pen/wBKpbax)
